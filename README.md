@@ -56,6 +56,8 @@ The calculator app should now be running on your device.
 ### Preview
 
 
-  <video controls autoplay loop>
- <source src="./assets/preview/calculator_preview.mp4" type="video/mp4" > 
+  <figure class="video_container">
+ <video controls="true" allowfullscreen="true">
+ <source src="./assets/preview/calculator_preview.mp4" type="video/mp4">
  </video>
+</figure>
